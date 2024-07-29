@@ -1,0 +1,26 @@
+C:\Users\Hi\source\repos\Midterm Project - TRex\Midterm Project - TRex\bin\Debug\Midterm Project - TRex.exe.config
+C:\Users\Hi\source\repos\Midterm Project - TRex\Midterm Project - TRex\bin\Debug\Midterm Project - TRex.exe
+C:\Users\Hi\source\repos\Midterm Project - TRex\Midterm Project - TRex\bin\Debug\Midterm Project - TRex.pdb
+C:\Users\Hi\source\repos\Midterm Project - TRex\Midterm Project - TRex\obj\Debug\Midterm Project - TRex.csproj.AssemblyReference.cache
+C:\Users\Hi\source\repos\Midterm Project - TRex\Midterm Project - TRex\obj\Debug\Midterm Project - TRex.csproj.SuggestedBindingRedirects.cache
+C:\Users\Hi\source\repos\Midterm Project - TRex\Midterm Project - TRex\obj\Debug\Midterm_Project___TRex.Form1.resources
+C:\Users\Hi\source\repos\Midterm Project - TRex\Midterm Project - TRex\obj\Debug\Midterm_Project___TRex.Properties.Resources.resources
+C:\Users\Hi\source\repos\Midterm Project - TRex\Midterm Project - TRex\obj\Debug\Midterm Project - TRex.csproj.GenerateResource.cache
+C:\Users\Hi\source\repos\Midterm Project - TRex\Midterm Project - TRex\obj\Debug\Midterm Project - TRex.csproj.CoreCompileInputs.cache
+C:\Users\Hi\source\repos\Midterm Project - TRex\Midterm Project - TRex\obj\Debug\Midterm Project - TRex.exe
+C:\Users\Hi\source\repos\Midterm Project - TRex\Midterm Project - TRex\obj\Debug\Midterm Project - TRex.pdb
+C:\Users\Hi\source\repos\Midterm Project - TRex\Midterm Project - TRex\obj\Debug\Midterm_Project___TRex.StartScreencs.resources
+C:\Users\Hi\source\repos\Midterm Project - TRex\Midterm Project - TRex\obj\Debug\Midterm_Project___TRex.HelpScreencs.resources
+D:\repos\repos\Midterm Project - TRex\Midterm Project - TRex\bin\Debug\Midterm Project - TRex.exe.config
+D:\repos\repos\Midterm Project - TRex\Midterm Project - TRex\bin\Debug\Midterm Project - TRex.exe
+D:\repos\repos\Midterm Project - TRex\Midterm Project - TRex\bin\Debug\Midterm Project - TRex.pdb
+D:\repos\repos\Midterm Project - TRex\Midterm Project - TRex\obj\Debug\Midterm Project - TRex.csproj.AssemblyReference.cache
+D:\repos\repos\Midterm Project - TRex\Midterm Project - TRex\obj\Debug\Midterm Project - TRex.csproj.SuggestedBindingRedirects.cache
+D:\repos\repos\Midterm Project - TRex\Midterm Project - TRex\obj\Debug\Midterm_Project___TRex.Form1.resources
+D:\repos\repos\Midterm Project - TRex\Midterm Project - TRex\obj\Debug\Midterm_Project___TRex.HelpScreencs.resources
+D:\repos\repos\Midterm Project - TRex\Midterm Project - TRex\obj\Debug\Midterm_Project___TRex.Properties.Resources.resources
+D:\repos\repos\Midterm Project - TRex\Midterm Project - TRex\obj\Debug\Midterm_Project___TRex.StartScreencs.resources
+D:\repos\repos\Midterm Project - TRex\Midterm Project - TRex\obj\Debug\Midterm Project - TRex.csproj.GenerateResource.cache
+D:\repos\repos\Midterm Project - TRex\Midterm Project - TRex\obj\Debug\Midterm Project - TRex.csproj.CoreCompileInputs.cache
+D:\repos\repos\Midterm Project - TRex\Midterm Project - TRex\obj\Debug\Midterm Project - TRex.exe
+D:\repos\repos\Midterm Project - TRex\Midterm Project - TRex\obj\Debug\Midterm Project - TRex.pdb
